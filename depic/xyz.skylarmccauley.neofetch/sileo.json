@@ -1,0 +1,193 @@
+{
+    "minVersion": "0.1",
+    "tintColor": "#000",
+    "tabs": [
+      {
+        "tabname": "Details",
+        "views": [
+
+          {
+            "itemCornerRadius": 6,
+            "itemSize": "{160, 275.41333333333336}",
+            "screenshots": [
+              {
+                "accessibilityText": "Neofetch running from command line",
+                "url": "https://apt.skylarmccauley.com/depic/xyz.skylarmccauley.neofetch/screenshots/run.png",
+                "fullSizeURL": "https://apt.skylarmccauley.com/depic/xyz.skylarmccauley.neofetch/screenshots/run.png"
+              },
+              {
+                "accessibilityText": "Neofetch running from command line",
+                "url": "https://apt.skylarmccauley.com/depic/xyz.skylarmccauley.neofetch/screenshots/run2.png",
+                "fullSizeURL": "https://apt.skylarmccauley.com/depic/xyz.skylarmccauley.neofetch/screenshots/run2.png"
+              }
+            ],
+            "ipad": {
+              "itemCornerRadius": 9,
+              "itemSize": "{320, 550.8266666666667}",
+              "screenshots": [
+                {
+                  "accessibilityText": "Neofetch running from command line",
+                  "url": "https://apt.skylarmccauley.com/depic/xyz.skylarmccauley.neofetch/screenshots/run.png",
+                  "fullSizeURL": "https://apt.skylarmccauley.com/depic/xyz.skylarmccauley.neofetch/screenshots/run.png"
+                },
+                {
+                  "accessibilityText": "Neofetch running from command line",
+                  "url": "https://apt.skylarmccauley.com/depic/xyz.skylarmccauley.neofetch/screenshots/run2.png",
+                  "fullSizeURL": "https://apt.skylarmccauley.com/depic/xyz.skylarmccauley.neofetch/screenshots/run2.png"
+                }
+              ],
+              "class": "DepictionScreenshotView"
+            },
+            "class": "DepictionScreenshotsView"
+          },
+          {
+            "markdown": "Command line system information tool ported to iOS",
+            "useSpacing": true,
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "class": "DepictionAdmobView",
+            "adUnitID":"ca-app-pub-9986048752291588~2995957259",
+            "adSize":"SmartBanner"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "title": "Dependencies",
+            "class": "DepictionHeaderView"
+          },
+          {
+            "markdown": "- gawk",
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "title": "Requirements",
+            "class": "DepictionHeaderView"
+          },
+          {
+            "markdown": "- MTerminal, MobileTermal, or New Term (2)",
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "title": "Known Issues",
+            "class": "DepictionHeaderView"
+          },
+          {
+            "markdown": "None",
+            "useSpacing": true,
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "class": "DepictionAdmobView",
+            "adUnitID":"ca-app-pub-9986048752291588~2995957259",
+            "adSize":"SmartBanner"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "title": "Latest Version",
+            "class": "DepictionHeaderView"
+          },
+          {
+            "title": "Version",
+            "text": "0.4",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "title": "Released",
+            "text": "9/26/2019",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "title": "Price",
+            "text": "Free",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "title": "Developer",
+            "text": "TheHacker",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "title": "Email",
+            "text": "skylarmccauley864@gmail.com",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "title": "Reddit",
+            "text": "u/TheHacker_",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "title": "Discord",
+            "text": "Skylar#5039",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "class": "DepictionAdmobView",
+            "adUnitID":"ca-app-pub-9986048752291588~2995957259",
+            "adSize":"SmartBanner"
+          },
+          {
+            "spacing": 16,
+            "class": "DepictionSpacerView"
+          },
+          {
+            "spacing": 20,
+            "class": "DepictionSpacerView"
+          }
+        ],
+        "class": "DepictionStackView"
+      },
+      {
+        "tabname": "Changelog",
+        "views": [
+          {
+            "title": "neofetch",
+            "useBoldText": true,
+            "useBottomMargin": true,
+            "class": "DepictionSubheaderView"
+          },
+          {
+            "markdown": "Updated to latest neofetch release",
+            "useSpacing": false,
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 9/26/2019</small>",
+            "useRawFormat": true,
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "markdown": "Initial Release",
+            "useSpacing": false,
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 8/20/2019</small>",
+            "useRawFormat": true,
+            "class": "DepictionMarkdownView"
+          }
+        ],
+        "class": "DepictionStackView"
+      }
+    ],
+    "class": "DepictionTabView"
+  }
